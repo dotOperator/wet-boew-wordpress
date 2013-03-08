@@ -10,9 +10,7 @@
 <!DOCTYPE html>
 <!--[if IE 7]><html lang="<?php _e("<!--:en-->en<!--:--><!--:fr-->fr<!--:-->"); ?>" class="no-js ie7"><![endif]-->
 <!--[if IE 8]><html lang="<?php _e("<!--:en-->en<!--:--><!--:fr-->fr<!--:-->"); ?>" class="no-js ie8"><![endif]-->
-<!--[if gt IE 8]><!-->
-<html lang="<?php _e("<!--:en-->en<!--:--><!--:fr-->fr<!--:-->"); ?>" class="no-js">
-<!--<![endif]-->
+<!--[if gt IE 8]><html lang="<?php _e("<!--:en-->en<!--:--><!--:fr-->fr<!--:-->"); ?>" class="no-js"><![endif]-->
 <head>
 	<meta charset="utf-8" />
 <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
